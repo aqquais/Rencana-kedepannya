@@ -1,4 +1,26 @@
-membuat beberapa buku dan artikel
+membuat beberapa buku 
+- buku HTML
+- buku CSS
+- buku JavaSkript
+- buku php
+- buku R
+- buku Phyton
+- buku statistika deskriptif
+- buku statistika inferensial
+- buku statistika pendidikan dengan R
+- buku media pembelajaran berbasis web
+- buku linux
+- buku arduino
+- buku android dengan kotlin
 mempelajari beberapa bahasa program
+- HTML
+- CSS
+- JavaSkript
+- php
+- phyton
+- kotlin
+- arduino
 membuat media pembelajaran web
 membuat media pembelajaran elektronika
+- mempelajari elektronika dasar
+- merangkai bahan elektronika
