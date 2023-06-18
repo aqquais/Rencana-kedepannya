@@ -21,6 +21,7 @@ mempelajari beberapa bahasa program
 - kotlin
 - arduino
 membuat media pembelajaran web
+- menggabungkan beberapa bahasa pemrograman
 membuat media pembelajaran elektronika
 - mempelajari elektronika dasar
 - merangkai bahan elektronika
